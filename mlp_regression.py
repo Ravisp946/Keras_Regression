@@ -1,5 +1,5 @@
 # USAGE
-# python mlp_regression.py --dataset Houses-dataset/Houses\ Dataset/
+# python mlp_regression.py --dataset Houses-dataset/Houses_Dataset/
 
 # import the necessary packages
 from keras.optimizers import Adam
